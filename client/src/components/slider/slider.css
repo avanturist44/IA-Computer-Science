@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+}
+
+.slang-words {
+  height: 150px; 
+  overflow: auto;
+  border: 1px solid #ccc; 
+  padding: 10px;
+  border: 1px;
+}
+
+.slang-words-social-media-2023 {
+  height: 150px; 
+  overflow: auto;
+  border: 1px solid #ccc; 
+  padding: 10px;
+  border: 1px;
+}
